@@ -12,7 +12,7 @@
 
 // iOS 15.7.3, iPhone 6s (iPhone8,1)
 // kcall
-#define ADDR_add_x0_x0_0x40_ret 0xfffffff005ac8480
+#define ADDR_add_x0_x0_0x40_ret 0xfffffff005ac847c
 #define ADDR_getiotrap          0xfffffff007756d9c
 
 // rootful
