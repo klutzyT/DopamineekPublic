@@ -16,10 +16,10 @@
 #define ADDR_getiotrap          0xfffffff0077562cc
 
 // rootful
-#define ADDR_vfs_context_kernel 0xfffffff007346e94
+#define ADDR_vfs_context_kernel 0xfffffff0070ff300
 #define ADDR_vnode_lookup       0xfffffff0073210a0
 #define ADDR_vnode_lookupat     0xfffffff0073210a8
-#define ADDR_vnode_ref_ext      0xfffffff0073213e0
+#define ADDR_vnode_ref_ext      0xfffffff007320c90
 #define ADDR_rootvnode_addr     0xfffffff007856720
 #define ADDR_rootvp_addr        0xfffffff0078567a0
 #define ADDR_rootdev_addr       0xfffffff00785674c
