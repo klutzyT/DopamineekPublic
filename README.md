@@ -2,4 +2,4 @@
 
 # Dopamineek
 
-Rootful from userspace jailbreak experiment, based on Dopamine, everything is hardcoded to iOS 16.6.1 for iPhone X, but it shouldn't be too hard to fix if you know what you're doing. This has been done to prevent rootful from being revived.
+Rootful from userspace jailbreak experiment, based on Dopamine, everything is in this repo is hardcoded to iOS 15.7.3 for the regular iPhone 6s (8,1), but it shouldn't be too hard to fix if you know what you're doing. This has been done to prevent rootful from being revived.
