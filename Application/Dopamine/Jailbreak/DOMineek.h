@@ -12,8 +12,8 @@
 
 // iOS 15.7.3, iPhone 6s (iPhone8,1)
 // kcall
-#define ADDR_add_x0_x0_0x40_ret 0xfffffff005ac847c
-#define ADDR_getiotrap          0xfffffff007756d9c
+#define ADDR_add_x0_x0_0x40_ret 0xfffffff005ac8480
+#define ADDR_getiotrap          0xfffffff0077562cc
 
 // rootful
 #define ADDR_vfs_context_kernel 0xfffffff007346e94
