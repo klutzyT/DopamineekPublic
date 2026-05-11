@@ -35,7 +35,7 @@ jobs:
       - name: Install Procursus
         uses: dhinakg/procursus-action@main
         with:
-          packages: ldid findutils sed coreutils make
+          packages: ldid findutils sed coreutils make openssl
 
       - name: Install THEOS
         run: |
