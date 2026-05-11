@@ -3,7 +3,7 @@ name: "Dopamine: build and upload"
 on:
   push:
     branches:
-      - '*'
+      - 'dopamineek'
     paths-ignore:
       - ".gitignore"
   pull_request:
